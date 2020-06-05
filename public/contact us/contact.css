@@ -1,0 +1,1314 @@
+@media only screen and (min-width: 1200px) {  
+
+  /* BODY PADD MAR ETC */
+html,body {
+   height: 100%;
+   width: 100%;
+   overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+a:visited {
+ background-color: #316dc3 !important;
+}
+
+a:active {
+ background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+ margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+ padding: 10px;
+ word-spacing:6px;
+ text-transform:capitalize;
+ color: white;
+ font-weight:bold;
+}
+
+.more {
+ color: #ebc334;
+}
+
+
+.firstbuttons {
+ border: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.uan {
+ color: #fff;
+ font-weight: bold;
+ font-size:xx-large;
+ font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+  border-radius: 55px;
+  width: 50%;
+  height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+  text-align: center;
+  font-family: cursive;
+  font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+ text-align: center;
+ background-color: #316dc3;
+ border-radius: 50px;
+ font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+  text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+  color: #ebc334 !important;
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+div.dm > button.viewmore {
+  color: #ebc334 !important;
+  text-decoration: none;
+  width: auto;
+  color: #ebc334;
+  font-weight:bolder;
+  text-transform: capitalize;
+}
+
+.nav-panel{
+ 
+  width: 100%;
+  background-color: #000;
+  padding-top: 10px;
+  box-shadow: grey 3px;
+  
+}
+
+.nav-panel > ul > li {
+  display: inline-block;
+  padding: 15px;
+}
+.nav-panel > ul > li > a {
+  color: #ebc334;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight:bold;
+  font-size: large;
+
+}
+
+.main-main-wrapper {
+    margin: 12px;
+}
+
+.oul{
+  padding:10px;
+  text-align:center;
+
+}
+
+.oulh{
+  text-transform:capitalize;
+  font-family:cursive;
+  color: #ebc334;
+}
+
+.map-div{
+  padding:15px;
+  margin:10px;
+}
+
+.row , .map-row{
+  padding:5px;
+}
+.col {
+  margin:5px;
+}
+
+.map1h{
+  text-align:center;
+   text-transform:capitalize;
+  font-family:cursive;
+  color: #ebc334;
+  text-decoration:underline;
+
+
+}
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 20px;
+  
+}
+
+.form-group {
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+.lumh {
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+
+
+.bhai-bhai {
+     margin: 10px;
+}
+
+.btn {
+  background-color:#0066ff;
+  color: #fff;
+  border-radius: 10px;
+  
+ 
+}
+
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+}
+
+}
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+
+  /* BODY PADD MAR ETC */
+html,body {
+   height: 100%;
+   width: 100%;
+   overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+a:visited {
+ background-color: #316dc3 !important;
+}
+
+a:active {
+ background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+ margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+ padding: 10px;
+ word-spacing:6px;
+ text-transform:capitalize;
+ color: white;
+ font-weight:bold;
+}
+
+.more {
+ color: #ebc334;
+}
+
+
+.firstbuttons {
+ border: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.uan {
+ color: #fff;
+ font-weight: bold;
+ font-size:xx-large;
+ font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+  border-radius: 55px;
+  width: 50%;
+  height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+  text-align: center;
+  font-family: cursive;
+  font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+ text-align: center;
+ background-color: #316dc3;
+ border-radius: 50px;
+ font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+  text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+  color: #ebc334 !important;
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+div.dm > button.viewmore {
+  color: #ebc334 !important;
+  text-decoration: none;
+  width: auto;
+  color: #ebc334;
+  font-weight:bolder;
+  text-transform: capitalize;
+}
+
+.nav-panel{
+ 
+  width: 100%;
+  background-color: #000;
+  padding-top: 10px;
+  box-shadow: grey 3px;
+  
+}
+
+.nav-panel > ul > li {
+  display: inline-block;
+  padding: 15px;
+}
+.nav-panel > ul > li > a {
+  color: #ebc334;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight:bold;
+  font-size: large;
+
+}
+
+.main-main-wrapper {
+  margin: 12px;
+}
+
+.oul{
+padding:10px;
+text-align:center;
+
+}
+
+.oulh{
+text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+}
+
+.map-div{
+padding:15px;
+margin:10px;
+}
+
+.row , .map-row{
+padding:5px;
+}
+.col {
+margin:5px;
+}
+
+.map1h{
+text-align:center;
+ text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+text-decoration:underline;
+
+
+}
+.dha-map {
+width: 100%;
+height: 350px;
+}
+
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 20px;
+  
+}
+
+.form-group {
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+
+.lumh {
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+
+
+.bhai-bhai {
+     display:inline-flex;
+     margin: 10px;
+}
+
+.btn {
+  color: #fff;
+  border-radius: 10px;
+}
+
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+}
+}
+
+@media only screen and (max-width: 991px) and (min-width: 712px){
+
+      /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+   /* toogler- buttons nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+
+.main-main-wrapper {
+  margin: 12px;
+}
+
+.oul{
+padding:10px;
+text-align:center;
+
+}
+
+.oulh{
+text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+}
+
+.map-div{
+padding:15px;
+margin:10px;
+}
+
+.row , .map-row{
+padding:5px;
+}
+.col {
+margin:5px;
+}
+
+.map1h{
+text-align:center;
+ text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+text-decoration:underline;
+
+
+}
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 20px;
+  
+}
+
+.form-group {
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+
+.lumh {
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+
+
+.bhai-bhai {
+     display:inline-flex;
+     margin: 10px;
+}
+
+.btn {
+  background-color:#0066ff;
+  color: #fff;
+  border-radius: 10px;
+  
+ 
+}
+
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+}
+}
+
+
+@media only screen and (max-width: 711px) and (min-width: 536px){
+
+      /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+   /* toogler- buttons nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+
+.main-main-wrapper {
+  margin: 12px;
+}
+
+.oul{
+padding:10px;
+text-align:center;
+
+}
+
+.oulh{
+text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+}
+
+.map-div{
+padding:15px;
+margin:10px;
+}
+
+.row , .map-row{
+padding:5px;
+}
+.col {
+margin:5px;
+}
+
+.map1h{
+text-align:center;
+ text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+text-decoration:underline;
+
+
+}
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 20px;
+  
+}
+
+.form-group {
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+
+.lumh {
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+
+
+.bhai-bhai {
+     display:inline-flex;
+     margin: 10px;
+}
+
+.btn {
+  background-color:#0066ff;
+  color: #fff;
+  border-radius: 10px;
+  
+ 
+}
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+}
+}
+
+
+@media only screen and (max-width: 535px) and (min-width: 508px){
+
+
+      /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+   /* toogler- buttons nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+
+.main-main-wrapper {
+  margin: 12px;
+}
+
+.oul{
+padding:10px;
+text-align:center;
+
+}
+
+.oulh{
+text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+}
+
+.map-div{
+padding:15px;
+margin:10px;
+}
+
+.row , .map-row{
+padding:5px;
+}
+.col {
+margin:5px;
+}
+
+.map1h{
+text-align:center;
+ text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+text-decoration:underline;
+
+
+}
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 20px;
+  
+}
+
+.form-group {
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+.lumh {
+
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+.bhai-bhai {
+     display:inline-flex;
+     margin: 10px;
+}
+
+.btn {
+  background-color:#0066ff;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+}
+}
+
+
+@media only screen and (max-width: 507px) {
+
+      /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+   /* toogler- buttons nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 5px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 13px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+
+.main-main-wrapper {
+  margin: 12px;
+}
+
+.oul{
+padding:10px;
+text-align:center;
+
+}
+
+.oulh{
+text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+}
+
+.map-div{
+padding:15px;
+margin:10px;
+}
+
+.row , .map-row{
+padding:5px;
+}
+.col {
+margin:5px;
+}
+
+.map1h{
+text-align:center;
+ text-transform:capitalize;
+font-family:cursive;
+color: #ebc334;
+text-decoration:underline;
+
+
+}
+.dha-map {
+  width: 100%;
+  height: 350px;
+}
+
+.form-inner {
+  margin: 5px;
+  
+}
+
+.form-group {
+  
+   margin: 10px;
+   font-family: cursive;
+   font-size:larger;
+}
+
+
+
+.lumh {
+  text-align:center;
+    color: #ebc334;
+    font-family:cursive;
+    text-decoration:underline;
+
+  
+}
+
+
+.bhai-bhai {
+     margin: 10px;
+     width:100%;
+}
+
+.btn {
+  color: #fff;
+  background-color: #316dc3;
+  border-radius: 10px; 
+}
+
+.fi {
+/*       border: hotpink solid; */
+       margin-left:10px;
+       border-radius: 10%;
+       box-shadow: grey  solid;
+       width: 50%
+}
+}
+

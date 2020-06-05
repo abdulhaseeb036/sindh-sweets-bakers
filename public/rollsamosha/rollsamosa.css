@@ -1,0 +1,1448 @@
+/* AUTHOR = HASEEB ALAM RAFIQ */
+
+
+/*  when screen greater then 1200px so target this mediaquery */
+@media only screen and (min-width: 1200px) {  
+
+  /* BODY PADD MAR ETC */
+  html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .myfirstcon{
+   margin: 30px;
+   padding: 10px;
+ }
+
+
+ .fat { transform: scale(2.5,2);
+  margin: 10px;
+ }
+ 
+ /* nan- logo */
+ .fan {
+  padding: 10px;
+  word-spacing:6px;
+  text-transform:capitalize;
+  color: white;
+  font-weight:bold;
+ }
+ 
+ .more {
+  color: #ebc334;
+ }
+ 
+ 
+ .firstbuttons {
+  border: none;
+ }
+ 
+ a:link {
+   text-decoration: none;
+ }
+ 
+ .uan {
+  color: #fff;
+  font-weight: bold;
+  font-size:xx-large;
+  font-family:serif;
+ 
+ }
+ 
+ /* MAIN NAVIGATION LOGO PIC*/
+ .ha-nav-logo {
+ 
+   border-radius: 55px;
+   width: 50%;
+   height: 100px;
+ }
+ 
+ 
+ /* NAV FIRST DIV */
+ .ha-nav-link-div {
+   text-align: center;
+   font-family: cursive;
+   font-size:larger;
+ }
+ 
+ 
+ /* NAV UL K ANDAR LI THEN A LINK HOVER */
+ ul > li:hover {
+  text-align: center;
+  background-color: #316dc3;
+  border-radius: 50px;
+  font-family: cursive;
+ }
+ 
+ /* NAV */
+ .ha-ul-nav {
+   text-align: center;
+ }
+ 
+ /* NAV IN CENTER  */
+ .ha-ul-nav {
+   text-align: center;
+   margin: 0 auto;
+ }
+ 
+ /* STYLING LINK NAV TEXT */
+ .ha-nav-a {
+   color: #ebc334 !important;
+   text-transform: capitalize;
+   margin-left: 30px;
+ }
+ div.dm > button.viewmore {
+   color: #ebc334 !important;
+   text-decoration: none;
+   width: auto;
+   color: #ebc334;
+   font-weight:bolder;
+   text-transform: capitalize;
+ }
+ 
+ .nav-panel{
+  
+   width: 100%;
+   background-color: #000;
+   padding-top: 10px;
+   box-shadow: grey 3px;
+   
+ }
+ 
+ .nav-panel > ul > li {
+   display: inline-block;
+   padding: 15px;
+ }
+ .nav-panel > ul > li > a {
+   color: #ebc334;
+   text-decoration: none;
+   text-transform: capitalize;
+   font-weight:bold;
+   font-size: large;
+ 
+ }
+.baap-nav {
+width: 100%;
+height: 30%;
+
+}
+
+.main{
+ background-color:#f5f5f5f5;
+
+ 
+}
+
+
+/* SWEETS CARD K MARGIN PADDING ETC */
+.card-row1-col1 {
+ padding-top: 20px;
+ margin: 0px;   
+}
+
+
+ /* SWEETS ONLY CARD TARGET */
+ .card{
+     background-color: #fff;
+     color: #000000;
+     font-weight: bold;
+     font-size: xx-large;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-transform:capitalize;
+     box-shadow: grey 3px 4px;
+ }
+ 
+ .card-text{
+   color: #316dc3;
+   font-size: x-large;
+ }
+ .card-title {
+     font-size: x-large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+ }
+ 
+ 
+ /* SWEETS CARD IMAGES TARGET ONLY */
+ .hs-card-img{
+     border-radius:10px;
+ }
+ 
+ /* SWEETS CARD BUTTONS TARGET ONLY */
+ .card-bt{
+     background-color: #000000;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+ }
+ a:link {
+     text-decoration: none;
+ }
+ a.viewmore {
+     color: #ebc334 !important;
+      background-color: #000000;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+ }
+ 
+ /* SWEETS CARD BUTTONS HOVER ONLY */
+ .card-bt:hover {
+     width: 150px !important;
+ }
+ 
+ #main-container-about-im-home{
+     width:100%;
+     padding: 20px;
+     background-image: url(./images/backgroundimg/bg_1.png);
+      display:inline-flex;
+ 
+ }
+
+#about-home-text {
+  width: 40%;
+ display:inline-block;
+ box-shadow: #000000 2px 4px 4px 3px;
+ border-radius: 30px;
+}
+
+#about-home-text #h6 {
+  color: #ebc334;
+  font-family:cursive;
+  font-weight:bold;
+  font-size:xxx-large;
+  text-transform:capitalize;
+  text-decoration:underline black;
+  line-height: 2.5em;
+}
+
+#about-home-text #h4 {
+  color: #000;
+  font-family:monospace;
+  font-weight:200px;
+  font-size:xx-large;
+  text-transform:capitalize;
+  line-height:3rem;
+  text-align:justify;
+}
+
+#hh4 {
+  color: #ebc334;
+  font-family:fantasy;
+  font-weight:200px;
+  font-size:xx-large;
+  text-transform:capitalize;
+  text-align:justify;
+}
+
+#hhh4 {
+  color: #ebc334;
+  font-family:fantasy;
+  font-weight:200px;
+  font-size:xxx-large;
+  text-transform:capitalize;
+  text-align:justify;
+}
+
+#hhhh4 {
+  color: #ebc334;
+  font-family:fantasy;
+  font-weight:200px;
+  font-size:xxx-large;
+  text-transform:capitalize;
+  line-height:3rem;
+  text-align:justify;
+}
+
+
+#about-home-vid {
+  width: 40%;
+  display: inline-block;
+  margin-left: 15%
+ 
+}
+
+#image-galley{
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+  
+#images {
+   text-align:center;
+}
+
+#image-galley{
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.ig {
+  color: #ebc334;
+  font-family:cursive;
+  font-weight:bold;
+  font-size:xxx-large;
+  text-transform:capitalize;
+  line-height:3em;
+  text-decoration:underline; 
+}
+  
+#images {
+   text-align:center;
+}
+
+
+.im {
+  height: 250px;
+  width: 20%;
+  border-radius: 50%;
+  box-shadow: #f0f0f0 3px 3px 3px;
+}
+
+.f3 {
+ text-align: center;
+ text-align: justify;
+}
+
+
+.f4 > h6 {
+   font-size: xx-large;
+}
+
+.f4 > h6 > ul > li > i {
+ font-size: xx-large;
+}
+
+.fbch {
+   font-size: xx-large;
+}
+
+.moref {
+  font-size: x-large;
+  text-align: center;
+}
+.faf {
+   color : white;
+}
+} /* ENDS MEDIA ONLY (SCREEN >= 1200PX) */
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+/* BODY PADD MAR ETC */
+html,body {
+ height: 100%;
+ width: 100%;
+ overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+.myfirstcon{
+  margin: 30px;
+  padding: 10px;
+}
+
+/* nan- logo */
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.card-text{
+  color: #316dc3;
+  font-size: x-large;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+.baap-nav {
+width: 100%;
+height: 30%;
+
+}
+
+.main{
+ background-color:#f5f5f5f5;
+
+ 
+}
+
+/* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+.small-wrapper1 {
+ background-image: url(./images/backgroundimg/bg_1.png);
+ width: 100%;
+ margin-top: 20px;
+}
+
+/* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+.metai-heading {
+ color: #ebc334;
+ font-size: xxx-large;
+ margin-top: 15px;
+ padding: 10px;
+ font-weight:bold;
+ font-family:cursive;
+ text-transform:capitalize;   
+}
+
+/* SWEETS CARD K MARGIN PADDING ETC */
+.card-row1-col1 {
+ padding: 20px;
+ margin: 0px;   
+}
+  
+  /* SWEETS ONLY CARD TARGET */
+  .card{
+     background-color: #fff;
+     color: #000000;
+     font-weight: bold;
+     font-size: xx-large;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-transform:capitalize;
+     box-shadow: grey 3px 4px;
+ }
+ 
+ .card-title {
+     font-size: x-large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+ }
+  
+  
+  /* SWEETS CARD IMAGES TARGET ONLY */
+  .hs-card-img{
+      border-radius: 20px;
+  }
+  
+  /* SWEETS CARD BUTTONS TARGET ONLY */
+  .card-bt{
+      background-color: #000000;
+      width: auto;
+      color: #ebc334;
+      font-weight:bolder;
+      text-transform: capitalize;
+  }
+  
+  /* SWEETS CARD BUTTONS HOVER ONLY */
+  .card-bt:hover {
+      width: 150px !important;
+  }
+
+  .lh {
+      margin-left: 30px;
+  }
+
+
+  .faf {
+     color : white;
+ }
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 712px){
+/* BODY PADD MAR ETC */
+html,body {
+ height: 100%;
+ width: 100%;
+ overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+.card-text{
+  color: #316dc3;
+  font-size: x-large;
+}
+
+.myfirstcon{
+  margin: 30px;
+  padding: 10px;
+}
+
+/* nan- logo */
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: large;
+
+}
+
+.main{
+ background-color:#f5f5f5f5;
+}
+
+
+/* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+.small-wrapper1 {
+ background-image: url(./images/backgroundimg/bg_1.png);
+ width: 100%;
+ margin-top: 20px;
+}
+
+/* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+.metai-heading {
+ color: #ebc334;
+ font-size: xxx-large;
+ margin-top: 15px;
+ padding: 10px;
+ font-weight:bold;
+ font-family:cursive;
+ text-transform:capitalize;   
+}
+
+/* SWEETS CARD K MARGIN PADDING ETC */
+.card-row1-col1 {
+ padding: 20px;
+ margin: 0px;   
+}
+
+/* SWEETS ONLY CARD TARGET */
+.card{
+ background-color: #fff;
+ color: #000000;
+ font-weight: bold;
+ font-size: xx-large;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-transform:capitalize;
+ box-shadow: grey 3px 4px;
+ margin: 0 auto;
+}
+
+.card-title {
+ font-size: x-large;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+font-style: italic;
+}
+
+
+/* SWEETS CARD IMAGES TARGET ONLY */
+.hs-card-img{
+  border-radius: 20px;
+}
+
+
+/* SWEETS CARD IMAGES TARGET ONLY */
+.hs-card-img{
+  border-radius: 20px;
+}
+
+/* SWEETS CARD BUTTONS TARGET ONLY */
+.card-bt{
+  background-color: #000000;
+  width: auto;
+  color: #ebc334;
+  font-weight:bolder;
+  text-transform: capitalize;
+}
+
+/* SWEETS CARD BUTTONS HOVER ONLY */
+.card-bt:hover {
+  width: 150px !important;
+}
+
+.faf {
+ color : white;
+}
+}
+
+
+
+@media only screen and (max-width: 711px) and (min-width: 536px){
+ html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .card-text{
+  color: #316dc3;
+  font-size: x-large;
+}
+ 
+ .myfirstcon{
+  margin: 30px;
+  padding: 10px;
+}
+ /* toggler-button-nav */
+ .navbar-toggler {
+     margin-left: auto !important;
+  }
+
+ .navbar-toggler {
+     margin-right: 0 auto !important;
+ }
+
+  /* nan- logo */
+  .fat { transform: scale(2.5,2);
+    margin: 10px;
+   }
+   
+   /* nan- logo */
+   .fan {
+    padding: 10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: white;
+    font-weight:bold;
+   }
+   
+   .more {
+    color: #ebc334;
+   }
+   
+   
+   .firstbuttons {
+    border: none;
+   }
+   
+   a:link {
+     text-decoration: none;
+   }
+   
+   .uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+   
+   }
+   
+   /* MAIN NAVIGATION LOGO PIC*/
+   .ha-nav-logo {
+   
+     border-radius: 55px;
+     width: 50%;
+     height: 100px;
+   }
+   
+   
+   /* NAV FIRST DIV */
+   .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+   }
+   
+   
+   /* NAV UL K ANDAR LI THEN A LINK HOVER */
+   ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+   }
+   
+   /* NAV */
+   .ha-ul-nav {
+     text-align: center;
+   }
+   
+   /* NAV IN CENTER  */
+   .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+   }
+   
+   /* STYLING LINK NAV TEXT */
+   .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+   }
+   div.dm > button.viewmore {
+     color: #ebc334 !important;
+     text-decoration: none;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+   }
+   
+   .nav-panel{
+    
+     width: 100%;
+     background-color: #000;
+     padding-top: 10px;
+     box-shadow: grey 3px;
+     
+   }
+   
+   .nav-panel > ul > li {
+     display: inline-block;
+     padding: 15px;
+   }
+   .nav-panel > ul > li > a {
+     color: #ebc334;
+     text-decoration: none;
+     text-transform: capitalize;
+     font-weight:bold;
+     font-size: large;
+   
+   }
+ .baap-nav {
+   width: 100%;
+   height: 30%;
+   
+ }
+ 
+ .main{
+     background-color:#f5f5f5f5;
+   }
+ 
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-image: url(./images/backgroundimg/bg_1.png);
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     padding: 20px;
+     margin: 0px;   
+ }
+      
+      /* SWEETS ONLY CARD TARGET */
+      .card{
+         background-color: #fff;
+         color: #000000;
+         font-weight: bold;
+         font-size: xx-large;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         text-transform:capitalize;
+         box-shadow: grey 3px 4px;
+         margin: 0 auto;
+     }
+     
+     .card-title {
+         font-size: x-large;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-style: italic;
+     }
+      
+      
+      /* SWEETS CARD IMAGES TARGET ONLY */
+      .hs-card-img{
+          border-radius: 20px;
+      }
+      
+      /* SWEETS CARD BUTTONS TARGET ONLY */
+      .card-bt{
+          background-color: #000000;
+          width: auto;
+          color: #ebc334;
+          font-weight:bolder;
+          text-transform: capitalize;
+      }
+      
+      /* SWEETS CARD BUTTONS HOVER ONLY */
+      .card-bt:hover {
+          width: 150px !important;
+      }
+
+      .faf {
+         color : white;
+     }
+}
+
+
+@media only screen and (max-width: 535px) and (min-width: 508px){
+ html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+
+ .card-text{
+  color: #316dc3;
+  font-size: x-large;
+}
+ .myfirstcon{
+  margin: 30px;
+  padding: 10px;
+}
+
+ /* toggler-button-nav */
+ .navbar-toggler {
+     margin-left: auto !important;
+  }
+ 
+  /* nan- logo */
+  .fat { transform: scale(2.5,2);
+    margin: 10px;
+   }
+   
+   /* nan- logo */
+   .fan {
+    padding: 10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: white;
+    font-weight:bold;
+   }
+   
+   .more {
+    color: #ebc334;
+   }
+   
+   
+   .firstbuttons {
+    border: none;
+   }
+   
+   a:link {
+     text-decoration: none;
+   }
+   
+   .uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+   
+   }
+   
+   /* MAIN NAVIGATION LOGO PIC*/
+   .ha-nav-logo {
+   
+     border-radius: 55px;
+     width: 50%;
+     height: 100px;
+   }
+   
+   
+   /* NAV FIRST DIV */
+   .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+   }
+   
+   
+   /* NAV UL K ANDAR LI THEN A LINK HOVER */
+   ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+   }
+   
+   /* NAV */
+   .ha-ul-nav {
+     text-align: center;
+   }
+   
+   /* NAV IN CENTER  */
+   .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+   }
+   
+   /* STYLING LINK NAV TEXT */
+   .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+   }
+   div.dm > button.viewmore {
+     color: #ebc334 !important;
+     text-decoration: none;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+   }
+   
+   .nav-panel{
+    
+     width: 100%;
+     background-color: #000;
+     padding-top: 10px;
+     box-shadow: grey 3px;
+     
+   }
+   
+   .nav-panel > ul > li {
+     display: inline-block;
+     padding: 15px;
+   }
+   .nav-panel > ul > li > a {
+     color: #ebc334;
+     text-decoration: none;
+     text-transform: capitalize;
+     font-weight:bold;
+     font-size: large;
+   
+   }
+ .baap-nav {
+   width: 100%;
+   height: 30%;
+   
+ }
+ 
+ .main{
+     background-color:#f5f5f5f5;
+ 
+     
+   }
+ 
+
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-image: url(./images/backgroundimg/bg_1.png);
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     padding: 20px;
+     margin: 0px;   
+ }
+      
+      /* SWEETS ONLY CARD TARGET */
+      .card{
+         background-color: #fff;
+         color: #000000;
+         font-weight: bold;
+         font-size: xx-large;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         text-transform:capitalize;
+         box-shadow: grey 3px 4px;
+         margin: 0 auto;;
+     }
+     
+     .card-title {
+         font-size: x-large;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-style: italic;
+     }
+      
+      /* SWEETS CARD IMAGES TARGET ONLY */
+      .hs-card-img{
+          border-radius: 20px;
+      }
+      
+      /* SWEETS CARD BUTTONS TARGET ONLY */
+      .card-bt{
+          background-color: #000000;
+          width: auto;
+          color: #ebc334;
+          font-weight:bolder;
+          text-transform: capitalize;
+      }
+      
+      /* SWEETS CARD BUTTONS HOVER ONLY */
+      .card-bt:hover {
+          width: 150px !important;
+      }      
+      
+      .faf {
+         color : white;
+     }
+  }
+
+
+@media only screen and (max-width: 507px) {
+ html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .card-text{
+  color: #316dc3;
+  font-size: x-large;
+}
+
+ .myfirstcon{
+  margin: 30px;
+  padding: 10px;
+}
+
+ a:visited {
+  background-color: #316dc3 !important;
+}
+
+a:active {
+  background-color: #316dc3 !important;
+}
+
+
+ /* toogler- buttons nav */
+ .navbar-toggler {
+     margin-left: auto !important;
+  }
+
+  /* nan- logo */
+  .fat { transform: scale(2.5,2);
+    margin: 10px;
+   }
+   
+   /* nan- logo */
+   .fan {
+    padding: 10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: white;
+    font-weight:bold;
+   }
+   
+   .more {
+    color: #ebc334;
+   }
+   
+   
+   .firstbuttons {
+    border: none;
+   }
+   
+   a:link {
+     text-decoration: none;
+   }
+   
+   .uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+   
+   }
+   
+   /* MAIN NAVIGATION LOGO PIC*/
+   .ha-nav-logo {
+   
+     border-radius: 55px;
+     width: 50%;
+     height: 100px;
+   }
+   
+   
+   /* NAV FIRST DIV */
+   .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+   }
+   
+   
+   /* NAV UL K ANDAR LI THEN A LINK HOVER */
+   ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+   }
+   
+   /* NAV */
+   .ha-ul-nav {
+     text-align: center;
+   }
+   
+   /* NAV IN CENTER  */
+   .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+   }
+   
+   /* STYLING LINK NAV TEXT */
+   .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+   }
+   div.dm > button.viewmore {
+     color: #ebc334 !important;
+     text-decoration: none;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+   }
+   
+   .nav-panel{
+    
+     width: 100%;
+     background-color: #000;
+     padding-top: 10px;
+     box-shadow: grey 3px;
+     
+   }
+   
+   .nav-panel > ul > li {
+     display: inline-block;
+     padding: 15px;
+   }
+   .nav-panel > ul > li > a {
+     color: #ebc334;
+     text-decoration: none;
+     text-transform: capitalize;
+     font-weight:bold;
+     font-size: large;
+   
+   }
+ .baap-nav {
+   width: 100%;
+   height: 30%;
+   
+ }
+ 
+ .main{
+     background-color:#f5f5f5f5;
+ 
+     
+   }
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-image: url(./images/backgroundimg/bg_1.png);
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     padding: 20px;
+     margin: 0px;   
+ }
+      
+      /* SWEETS ONLY CARD TARGET */
+      .card{
+         background-color: #fff;
+         color: #000000;
+         font-weight: bold;
+         font-size: xx-large;
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         text-transform:capitalize;
+         box-shadow: grey 3px 4px;
+         margin: 0 auto;
+     }
+     
+     .card-title {
+         font-size: x-large;
+         font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-style: italic;
+     }
+      
+      
+      /* SWEETS CARD IMAGES TARGET ONLY */
+      .hs-card-img{
+          border-radius: 20px;
+      }
+      
+      /* SWEETS CARD BUTTONS TARGET ONLY */
+      .card-bt{
+          background-color: #000000;
+          width: auto;
+          color: #ebc334;
+          font-weight:bolder;
+          text-transform: capitalize;
+      }
+      
+      /* SWEETS CARD BUTTONS HOVER ONLY */
+      .card-bt:hover {
+          width: 150px !important;
+      }
+
+      .fa {
+          padding:10px;
+          word-spacing:6px;
+          text-transform:capitalize;
+      }
+      
+      
+      .lh {
+          margin-left: 30px;
+      }
+      
+      .im {
+          height: 250px;
+          border-radius: 50%;
+          box-shadow: #f0f0f0 3px 3px 3px;
+          width: 20%; 
+          text-align: center;
+      }
+
+      .faf {
+         color : white;
+     }
+  }
+ 

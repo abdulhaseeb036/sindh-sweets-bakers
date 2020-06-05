@@ -1,0 +1,1823 @@
+/* AUTHOR = HASEEB ALAM RAFIQ */
+
+
+/*  when screen greater then 1200px so target this mediaquery */
+@media only screen and (min-width: 1200px) {  
+
+    /* BODY PADD MAR ETC */
+ html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ a:visited {
+    background-color: #316dc3 !important;
+}
+
+ a:active {
+    background-color: #316dc3 !important;
+}
+
+ .fat { transform: scale(2.5,2);
+    margin: 10px;
+ }
+
+   /* nan- logo */
+   .fan {
+    padding: 10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: white;
+    font-weight:bold;
+}
+
+ .more {
+    color: #ebc334;
+   }
+
+
+   .firstbuttons {
+    border: none;
+}
+
+.uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+
+}
+ 
+ /* MAIN NAVIGATION LOGO PIC*/
+ .ha-nav-logo {
+ 
+     border-radius: 55px;
+     width: 50%;
+     height: 100px;
+ }
+ 
+ 
+ /* NAV FIRST DIV */
+ .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+ }
+
+
+ /* NAV UL K ANDAR LI THEN A LINK HOVER */
+ ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+ }
+ 
+ /* NAV */
+ .ha-ul-nav {
+     text-align: center;
+ }
+ 
+ /* NAV IN CENTER  */
+ .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+ }
+ 
+ /* STYLING LINK NAV TEXT */
+ .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+ }
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-color: whitesmoke;
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     padding: 20px;
+     margin: 0px;   
+ }
+ 
+ 
+ 
+ /* SWEETS ONLY CARD TARGET */
+ .card{
+    background-color: #fff;
+    color: #000000;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:capitalize;
+    box-shadow: grey 3px 4px;
+}
+
+.card-title {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+   font-style: italic;
+}
+ 
+
+ /* SWEETS CARD BUTTONS TARGET ONLY */
+ .card-bt{
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+    border-radius: 40%;
+}
+
+ a:link {
+     text-decoration: none;
+ }
+ a.viewmore {
+     color: #ebc334 !important;
+     text-decoration: none;
+     width: auto;
+     color: #ebc334;
+     font-weight:bolder;
+     text-transform: capitalize;
+ }
+ 
+ /* SWEETS CARD BUTTONS HOVER ONLY */
+ .card-bt:hover {
+     width: 150px !important;
+ }
+ 
+ #main-container-about-im-home{
+     border: black solid;
+     width:100%;
+     padding: 20px;
+     background-image: url(./images/backgroundimg/bg_1.png);
+      
+ 
+ }
+ 
+ #about-home-text {
+     border:aqua solid;
+     width: 40%;
+    box-shadow: #000000 2px 4px 4px 3px;
+    display: inline-block;
+    border-radius: 30px;
+ }
+ 
+ #about-home-text #h6 {
+     color: #ebc334;
+     font-family:cursive;
+     font-weight:bold;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-decoration:underline black;
+     line-height: 2.5em;
+ }
+ 
+ #about-home-text #h4 {
+     color: #000;
+     font-family:monospace;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+
+ .vid {
+   width: 100%;
+   height: 750px;
+ }
+ 
+ #hh4 {
+     color: #ebc334;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhh4 {
+     color: #ebc334;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhhh4 {
+     color: #ebc334;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ 
+ #about-home-vid {
+     border: blue solid;
+     width: 55%;
+     display: inline-block;
+     padding: 2%;
+    
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+ 
+ .ig {
+     color: #ebc334;
+     font-family:cursive;
+     font-weight:bold;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3em;
+     text-decoration:underline; 
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+ }
+ 
+ .fa {
+     padding:10px;
+     word-spacing:6px;
+     text-transform:capitalize;
+ }
+ 
+ 
+ .lh {
+     margin-left: 30px;
+ }
+ 
+ .im {
+     height: 250px;
+     width: 20%;
+     border-radius: 50%;
+     box-shadow: #f0f0f0 3px 3px 3px;
+ }
+ } /* ENDS MEDIA ONLY (SCREEN >= 1200PX) */
+ 
+ 
+ @media only screen and (max-width: 1199px) and (min-width: 992px){
+     /* BODY PADD MAR ETC */
+     html,body {
+         height: 100%;
+         width: 100%;
+         overflow-x: hidden;
+     }
+     
+     /* THIS WILL ONLY BODY */
+     body {
+         height: 100%;
+         margin: 0px;
+     }
+
+     .fat { transform: scale(2.5,2);
+        margin: 10px }
+
+       /* nan- logo */
+   .fan {
+    padding: 10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: #fff;
+    font-weight:bold;
+}
+
+     .more {
+        color: #ebc334 !important;
+       }
+
+       .firstbuttons {
+        border: none;
+    }
+ 
+    .uan {
+        color: #fff;
+        font-weight: bold;
+        font-size:xx-large;
+        font-family:serif;
+ 
+    }
+  
+ 
+     /* MAIN NAVIGATION LOGO PIC*/
+     .ha-nav-logo {
+     
+         border-radius: 55px;
+         width: 50%;
+         height: 100px;
+     }
+     
+     /* NAV FIRST DIV */
+     .ha-nav-link-div {
+         text-align: center;
+         font-family: cursive;
+         font-size:larger;
+     }
+     
+     /* NAV UL K ANDAR LI THEN A LINK HOVER */
+     ul > li:hover {
+        text-align: center;
+        background-color: #316dc3;
+        border-radius: 50px;
+        font-family: cursive;
+     }
+     
+     /* NAV */
+     .ha-ul-nav {
+         text-align: center;
+     }
+     
+     /* NAV IN CENTER  */
+     .ha-ul-nav {
+         text-align: center;
+         margin: 0 auto;
+     }
+     
+     /* STYLING LINK NAV TEXT */
+     .ha-nav-a {
+         color: #ebc334 !important;
+         text-transform: capitalize;
+         margin-left: 30px;
+     }
+     
+     /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+     .small-wrapper1 {
+         background-color: whitesmoke;
+         width: 100%;
+         margin-top: 20px;
+     }
+     
+     /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+     .metai-heading {
+         color: #ebc334;
+         font-size: xxx-large;
+         margin-top: 15px;
+         padding: 10px;
+         font-weight:bold;
+         font-family:cursive;
+         text-transform:capitalize;   
+     }
+     
+     /* SWEETS CARD K MARGIN PADDING ETC */
+     .card-row1-col1 {
+         padding: 5px;
+         margin: 0px;   
+     }
+     
+     /* SWEETS ONLY CARD TARGET */
+     .card{
+        background-color: #fff;
+        color: #000000;
+        font-weight: bold;
+        font-size: xx-large;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-transform:capitalize;
+        box-shadow: grey 3px 4px;
+    }
+    
+    .card-title {
+        font-size: xx-large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+       font-weight: bolder;
+       font-style: italic;
+    }
+     
+
+     /* SWEETS CARD BUTTONS TARGET ONLY */
+     .card-bt{
+        width: auto;
+        color: #ebc334;
+        font-weight:bolder;
+        text-transform: capitalize;
+        border-radius: 40%;
+    }
+    
+     
+     /* SWEETS CARD BUTTONS HOVER ONLY */
+     .card-bt:hover {
+         width: 150px !important;
+     }
+
+     a.viewmore {
+        color: #ebc334 !important;
+        width: auto;
+        color: #ebc334;
+        font-weight:bolder;
+        text-transform: capitalize;
+    }
+     
+     #main-container-about-im-home{
+         border: black solid;
+         width:100%;
+         padding: 20px;
+         background-color: whitesmoke;
+     
+     }
+     
+     #about-home-text {
+         border:aqua solid;
+         width: 100%;
+         margin:0 auto;
+         box-shadow: #000000 2px 4px 4px 3px;
+         border-radius: 30px;
+     }
+     
+     #about-home-text #h6 {
+         color: #ebc334;
+         font-family:cursive;
+         font-weight:bold;
+         font-size:xxx-large;
+         text-transform:capitalize;
+         text-decoration:underline black;
+         line-height: 2.5em;
+     }
+     
+     #about-home-text #h4 {
+         color: #000;
+         font-family:monospace;
+         font-weight:200px;
+         font-size:xx-large;
+         text-transform:capitalize;
+         line-height:3rem;
+         text-align:justify;
+     }
+     
+     #hh4 {
+         color: #ebc334;
+         font-family:fantasy;
+         font-weight:200px;
+         font-size:xx-large;
+         text-transform:capitalize;
+         text-align:justify;
+     }
+     
+     #hhh4 {
+         color: #ebc334;
+         font-family:fantasy;
+         font-weight:200px;
+         font-size:xxx-large;
+         text-transform:capitalize;
+         text-align:justify;
+     }
+     
+     #hhhh4 {
+         color: #ebc334;
+         font-family:fantasy;
+         font-weight:200px;
+         font-size:xxx-large;
+         text-transform:capitalize;
+         line-height:3rem;
+         text-align:justify;
+     }
+
+     .vid {
+         width: 100%;
+         height: 400px;
+
+     }
+     
+     
+     #about-home-vid {
+         border: blue solid;
+         width: 80%;
+         text-align:center;
+         margin: 0 auto;
+         padding: 30px;  
+     }
+     
+     #image-galley{
+         border: red solid;
+         padding: 10px;
+         margin-top: 20px;
+         width: 100%;
+     }
+         
+     #images {
+         border: blue solid;
+          text-align:center;
+          width: 50%;
+          margin: 0 auto;
+     }
+     
+     #image-galley{
+         border: red solid;
+         padding: 10px;
+         margin-top: 20px;
+         width: 100%;
+     }
+         
+     #images {
+         border: blue solid;
+          text-align:center;
+          width: 90%;
+          margin: 0 auto;
+     }
+     
+     #image-galley{
+         border: red solid;
+         padding: 10px;
+         margin-top: 20px;
+         width: 100%;
+     }
+     
+     .ig {
+         color: #ebc334;
+         font-family:cursive;
+         font-weight:bold;
+         font-size:xxx-large;
+         text-transform:capitalize;
+         line-height:3em;
+         text-decoration:underline; 
+     }
+
+     .lh {
+         margin-left: 30px;
+     }
+     
+     .im {
+         height: 250px;
+         border-radius: 50%;
+         box-shadow: #f0f0f0 3px 3px 3px;
+         width: 20%; 
+         text-align: center;
+     }
+ }
+ 
+ 
+ @media only screen and (max-width: 991px) and (min-width: 712px){
+   /* BODY PADD MAR ETC */
+   html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .fat { transform: scale(2.5,2);
+    margin: 10px;
+ }
+
+   .firstbuttons {
+    border: none;
+}
+
+.uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+
+}
+
+.more {
+    color: #ebc334;
+    font-size: x-large;
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+
+
+     /* nan- logo */
+     .fan {
+        padding:10px;
+        word-spacing:6px;
+        text-transform:capitalize;
+        color: #fff;
+        font-weight:bold;
+    }
+
+ /* MAIN NAVIGATION LOGO PIC*/
+ .ha-nav-logo {
+ 
+     border-radius: 55px;
+     width: 50%;
+     height: 150px;
+ }
+ 
+ /* NAV FIRST DIV */
+ .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+ }
+ 
+ /* NAV UL K ANDAR LI THEN A LINK HOVER */
+ ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+ }
+ 
+ /* NAV */
+ .ha-ul-nav {
+     text-align: center;
+ }
+ 
+ /* NAV IN CENTER  */
+ .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+ }
+ 
+ /* STYLING LINK NAV TEXT */
+ .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+ }
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-color: whitesmoke;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     margin: 7px;   
+ }
+ 
+ /* SWEETS ONLY CARD TARGET */
+ .card{
+    background-color: #fff;
+    color: #000000;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:capitalize;
+    box-shadow: grey 3px 4px;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+   font-style: italic;
+}
+
+
+ /* SWEETS CARD BUTTONS TARGET ONLY */
+ .card-bt{
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+    border-radius: 40%;
+}
+
+
+ a.viewmore {
+    color: #ebc334 !important;
+    text-decoration: none;
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+}
+ 
+ /* SWEETS CARD BUTTONS HOVER ONLY */
+ .card-bt:hover {
+     width: 150px !important;
+ }
+ 
+ #main-container-about-im-home{
+     border: black solid;
+     width:100%;
+     padding: 20px;
+     background-color: whitesmoke;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+ 
+ }
+ 
+ #about-home-text {
+     border:aqua solid;
+     width: 80%;
+     margin:0 auto;
+     box-shadow: #000000 2px 4px 4px 3px;
+     border-radius: 30px;
+ }
+
+ .vid {
+     width:100%;
+     height: 400px;
+
+ }
+ 
+ #about-home-text #h6 {
+     color: #316dc3;
+     font-family:cursive;
+     font-weight:bold;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-decoration:underline black;
+     line-height: 2.5em;
+ }
+ 
+ #about-home-text #h4 {
+     color: #000;
+     font-family:monospace;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ #hh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhhh4 {
+     color: RED;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ 
+ #about-home-vid {
+     border: blue solid;
+     text-align:center;
+     margin: 0 auto;
+     padding: 55px;  
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 100% !important;
+      margin: 0 auto;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 90%;
+      margin: 0 auto;
+      background-image: url(./images/backgroundimg/cake\ k\ uppper\ ckae.jpg);
+      background-size: 200%;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+ 
+ .ig {
+     color: #ebc334;
+     font-family:cursive;
+     font-weight:bolder;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3em;
+     font-size:-webkit-xxx-large;
+     text-decoration:underline; 
+ 
+ }
+    
+
+ .lh {
+     margin-left: 30px;
+ }
+ 
+ .im {
+     height: 400px;
+     border-radius: 50%;
+     width: 45%; 
+     text-align: center;
+ }
+ }
+ 
+ 
+ 
+ @media only screen and (max-width: 711px) and (min-width: 536px){
+  /* BODY PADD MAR ETC */
+  html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .fat { transform: scale(2.5,2);
+    margin: 10px;
+ }
+
+
+   /* nan- logo */
+   .fan {
+    padding:10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: #fff;
+    font-weight:bold;
+}
+
+ .more {
+    color: #ebc334;
+   }
+
+   .firstbuttons {
+    border: none;
+}
+
+.uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+ 
+ /* MAIN NAVIGATION LOGO PIC*/
+ .ha-nav-logo {
+ 
+     border-radius: 55px;
+     width: 50%;
+     height: 150px;
+ }
+ 
+ /* NAV FIRST DIV */
+ .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+ }
+ 
+ /* NAV UL K ANDAR LI THEN A LINK HOVER */
+ ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+ }
+ /* NAV */
+ .ha-ul-nav {
+     text-align: center;
+ }
+ 
+ /* NAV IN CENTER  */
+ .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+ }
+ 
+ /* STYLING LINK NAV TEXT */
+ .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+ }
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-color: whitesmoke;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     margin: 7px;   
+ }
+ 
+ /* SWEETS ONLY CARD TARGET */
+ .card{
+    background-color: #fff;
+    color: #000000;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:capitalize;
+    box-shadow: grey 3px 4px;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+   font-style: italic;
+}
+ 
+
+ /* SWEETS CARD BUTTONS TARGET ONLY */
+ .card-bt{
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+    border-radius: 40%;
+}
+
+
+ a.viewmore {
+    color: #ebc334 !important;
+    text-decoration: none;
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+}
+ 
+ /* SWEETS CARD BUTTONS HOVER ONLY */
+ .card-bt:hover {
+     width: 150px !important;
+ }
+ 
+ #main-container-about-im-home{
+     border: black solid;
+     width:100%;
+     padding: 20px;
+     background-color: whitesmoke;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+ 
+ }
+ 
+ #about-home-text {
+     border:aqua solid;
+     width: 100%;
+     margin:0 auto;
+     box-shadow: #000000 2px 4px 4px 3px;
+     border-radius: 30px;
+ }
+ 
+ #about-home-text #h6 {
+     color: #316dc3;
+     font-family:cursive;
+     font-weight:bold;
+     font-size:xx-large;
+     text-transform:capitalize;
+     text-decoration:underline black;
+     line-height: 2.5em;
+ }
+ 
+ #about-home-text #h4 {
+     color: #000;
+     font-family:monospace;
+     font-weight:200px;
+     font-size:x-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ #hh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhhh4 {
+     color: RED;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ .vid {
+   width: 100%;
+   height: 400px;
+ }
+ 
+ #about-home-vid {
+     border: blue solid;
+     text-align:center;
+     margin: 0 auto;
+     padding: 55px;  
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 100% !important;
+      margin: 0 auto;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 90%;
+      margin: 0 auto;
+      background-image: url(./images/backgroundimg/cake\ k\ uppper\ ckae.jpg);
+      background-size: 200%;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+ 
+ .ig {
+     color: #ebc334;
+     font-family:cursive;
+     font-weight:bolder;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3em;
+     font-size:-webkit-xxx-large;
+     text-decoration:underline; 
+ 
+ }
+     
+
+ .lh {
+     margin-left: 30px;
+ }
+ 
+ .im {
+     height: 400px;
+     border-radius: 50%;
+     width: 45%; 
+     text-align: center;
+ }
+ }
+ 
+ 
+ @media only screen and (max-width: 535px) and (min-width: 508px){
+   /* BODY PADD MAR ETC */
+   html,body {
+     height: 100%;
+     width: 100%;
+     overflow-x: hidden;
+ }
+ 
+ /* THIS WILL ONLY BODY */
+ body {
+     height: 100%;
+     margin: 0px;
+ }
+
+ .fat { transform: scale(2.5,2);
+    margin: 10px;
+ }
+
+   /* nan- logo */
+   .fan {
+    padding:10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: #fff;
+    font-weight:bold;
+}
+
+ .more {
+    color: #ebc334;
+   }
+
+   .firstbuttons {
+    border: none;
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+.uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+
+}
+
+
+ /* MAIN NAVIGATION LOGO PIC*/
+ .ha-nav-logo {
+ 
+     border-radius: 55px;
+     width: 50%;
+     height: 100px;
+ }
+ 
+ /* NAV FIRST DIV */
+ .ha-nav-link-div {
+     text-align: center;
+     font-family: cursive;
+     font-size:larger;
+ }
+ 
+ /* NAV UL K ANDAR LI THEN A LINK HOVER */
+ ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+ }
+ 
+ /* NAV */
+ .ha-ul-nav {
+     text-align: center;
+ }
+ 
+ /* NAV IN CENTER  */
+ .ha-ul-nav {
+     text-align: center;
+     margin: 0 auto;
+ }
+ 
+ /* STYLING LINK NAV TEXT */
+ .ha-nav-a {
+     color: #ebc334 !important;
+     text-transform: capitalize;
+     margin-left: 30px;
+ }
+ 
+ /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+ .small-wrapper1 {
+     background-color:whitesmoke;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+     width: 100%;
+     margin-top: 20px;
+ }
+ 
+ /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+ .metai-heading {
+     color: #ebc334;
+     font-size: xxx-large;
+     margin-top: 15px;
+     padding: 10px;
+     font-weight:bold;
+     font-family:cursive;
+     text-transform:capitalize;   
+ }
+ 
+ /* SWEETS CARD K MARGIN PADDING ETC */
+ .card-row1-col1 {
+     margin: px;
+     padding-top: 30px;   
+ }
+ 
+ /* SWEETS ONLY CARD TARGET */
+   .card{
+       background-color: #fff;
+       color: #000000;
+       font-weight: bold;
+       font-size: xx-large;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       text-transform:capitalize;
+       box-shadow: grey 3px 4px;
+       margin: 0 auto;
+   }
+   
+   .card-title {
+       font-size: xx-large;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: bolder;
+      font-style: italic;
+   }
+ 
+
+ 
+ /* SWEETS CARD BUTTONS TARGET ONLY */
+ .card-bt{
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+    border-radius: 40%;
+}
+
+
+ a.viewmore {
+    color: #ebc334 !important;
+    text-decoration: none;
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+}
+ 
+ /* SWEETS CARD BUTTONS HOVER ONLY */
+ .card-bt:hover {
+     width: 150px !important;
+ }
+ 
+ #main-container-about-im-home{
+     border: black solid;
+     width:100%;
+     padding: 20px;
+     background-attachment: fixed;
+     background-size: cover;
+     background-repeat: no-repeat;
+ 
+ }
+ 
+ #about-home-text {
+     border:aqua solid;
+     width: 85%;
+     margin:0 auto;
+     box-shadow: #000000 2px 4px 4px 3px;
+     border-radius: 30px;
+ }
+ 
+ #about-home-text #h6 {
+     color: #316dc3;
+     font-family:cursive;
+     font-weight:bold;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-decoration:underline black;
+     line-height: 2.5em;
+ }
+ 
+ #about-home-text #h4 {
+     color: #000;
+     font-family:monospace;
+     font-weight:200px;
+     font-size:large;
+     text-transform:capitalize;
+     line-height:2rem;
+     text-align:justify;
+ }
+ 
+ #hh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhh4 {
+     color: #316dc3;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     text-align:justify;
+ }
+ 
+ #hhhh4 {
+     color: RED;
+     font-family:fantasy;
+     font-weight:200px;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3rem;
+     text-align:justify;
+ }
+ 
+ .vid {
+   width: 100%;
+   height: 400px
+ }
+ 
+ #about-home-vid {
+     border: blue solid;
+     text-align:center;
+     margin: 0 auto;
+     padding: 55px;  
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 100% !important;
+      margin: 0 auto;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+     
+ #images {
+     border: blue solid;
+      text-align:center;
+      width: 90%;
+      margin: 0 auto;
+      background-image: url(./images/backgroundimg/cake\ k\ uppper\ ckae.jpg);
+      background-size: 200%;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+ }
+ 
+ #image-galley{
+     border: red solid;
+     padding: 10px;
+     margin-top: 20px;
+     width: 100%;
+ }
+ 
+ .ig {
+     color: #ebc334;
+     font-family:cursive;
+     font-weight:bolder;
+     font-size:xxx-large;
+     text-transform:capitalize;
+     line-height:3em;
+     font-size:-webkit-xxx-large;
+     text-decoration:underline; 
+ 
+ }
+
+ .lh {
+     margin-left: 30px;
+ }
+ 
+ .im {
+     height: 400px;
+     border-radius: 50%;
+     width: 45%; 
+     text-align: center;
+ }
+ }
+ 
+ 
+ @media only screen and (max-width: 507px) {
+     /* BODY PADD MAR ETC */
+     html,body {
+       height: 100%;
+       width: 100%;
+       overflow-x: hidden;
+     }
+   
+   /* THIS WILL ONLY BODY */
+   body {
+       height: 100%;
+       margin: 0px;
+   }
+
+   .fat { transform: scale(2.5,2);
+    margin: 10px;
+ }
+
+  /* nan- logo */
+   .fan {
+    padding:10px;
+    word-spacing:6px;
+    text-transform:capitalize;
+    color: #fff;
+    font-weight:bold;
+}
+
+.navbar-toggler {
+    margin-left: auto;
+}
+
+   .more {
+    color: #ebc334;
+   }
+
+   .firstbuttons {
+    border: none;
+}
+
+.uan {
+    color: #fff;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family:serif;
+
+}
+
+   
+   /* MAIN NAVIGATION LOGO PIC*/
+   .ha-nav-logo {
+   
+       border-radius: 55px;
+       height: 100px;
+   }
+   
+ 
+/*    .slide {
+     margin-top: 145px;
+ } */
+ 
+   /* NAV FIRST DIV */
+   .ha-nav-link-div {
+       text-align: center;
+       font-family: cursive;
+       font-size:larger;
+   }
+   
+   /* NAV UL K ANDAR LI THEN A LINK HOVER */
+   ul > li:hover {
+    text-align: center;
+    background-color: #316dc3;
+    border-radius: 50px;
+    font-family: cursive;
+ }
+   
+   /* NAV */
+   .ha-ul-nav {
+       text-align: center;
+   }
+   
+   /* NAV IN CENTER  */
+   .ha-ul-nav {
+       text-align: center;
+       margin: 0 auto;
+   }
+   
+   /* STYLING LINK NAV TEXT */
+   .ha-nav-a {
+       color: #ebc334 !important;
+       text-transform: capitalize;
+       margin-left: 30px;
+   }
+   
+   /* SMALL FIRST WRAPPER : IN THIS CONTAINER ALL SWEETS CARDS AND MATERIAL. */
+   .small-wrapper1 {
+       background-color: whitesmoke;
+       background-attachment: fixed;
+       background-size: cover;
+       background-repeat: no-repeat;
+       width: 100%;
+       margin-top: 20px;
+   }
+   
+   /* SMALL WRAPPER K HEADING CARDS SHURU HNY SY PHLY : SWEETS WRAPPER */
+   .metai-heading {
+       color: #ebc334;
+       font-size: xxx-large;
+       margin-top: 15px;
+       padding: 10px;
+       font-weight:bold;
+       font-family:cursive;
+       text-transform:capitalize;   
+   }
+   
+   /* SWEETS CARD K MARGIN PADDING ETC */
+   .card-row1-col1 {
+       padding-top: 30px;   
+   }
+   
+   /* SWEETS ONLY CARD TARGET */
+   .card{
+    background-color: #fff;
+    color: #000000;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:capitalize;
+    box-shadow: grey 3px 4px;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bolder;
+   font-style: italic;
+}
+   
+
+a.viewmore {
+    color: #ebc334 !important;
+    text-decoration: none;  
+    width: auto;
+    color: #ebc334;
+    font-weight:bolder;
+    text-transform: capitalize;
+}
+   
+   /* SWEETS CARD IMAGES TARGET ONLY */
+   .hs-card-img{
+       border-radius: 20px;
+   }
+   
+   
+   /* SWEETS CARD IMAGES TARGET ONLY */
+   .hs-card-img{
+       border-radius: 20px;
+   }
+   
+   /* SWEETS CARD BUTTONS TARGET ONLY */
+   .card-bt{
+       width: auto;
+       color: #ebc334;
+       font-weight:bolder;
+       text-transform: capitalize;
+       border-radius: 40%;
+   }
+   
+   /* SWEETS CARD BUTTONS HOVER ONLY */
+   .card-bt:hover {
+       width: 150px !important;
+   }
+   
+   #main-container-about-im-home{
+       border: black solid;
+       width:100%;
+       padding: 20px;
+       background-color: whitesmoke;
+       background-attachment: fixed;
+       background-size: cover;
+       background-repeat: no-repeat;
+   
+   }
+   
+   #about-home-text {
+       border:aqua solid;
+       width: 90%;
+       margin:0 auto;
+       box-shadow: #000000 2px 4px 4px 3px;
+       border-radius: 30px;
+   }
+   
+   #about-home-text #h6 {
+       color: #316dc3;
+       font-family:cursive;
+       font-weight:bold;
+       font-size:xxx-large;
+       text-transform:capitalize;
+       text-decoration:underline black;
+       line-height: 2.5em;
+   }
+   
+   #about-home-text #h4 {
+       color: #000;
+       font-family:monospace;
+       font-weight:200px;
+       font-size:large;
+       text-transform:capitalize;
+       line-height:2rem;
+       text-align:justify;
+   }
+   
+   #hh4 {
+       color: #316dc3;
+       font-family:fantasy;
+       font-weight:200px;
+       font-size:xx-large;
+       text-transform:capitalize;
+       text-align:justify;
+   }
+   
+   #hhh4 {
+       color: #316dc3;
+       font-family:fantasy;
+       font-weight:200px;
+       font-size:xxx-large;
+       text-transform:capitalize;
+       text-align:justify;
+   }
+   
+   #hhhh4 {
+       color: RED;
+       font-family:fantasy;
+       font-weight:200px;
+       font-size:xxx-large;
+       text-transform:capitalize;
+       line-height:3rem;
+       text-align:justify;
+   }
+   
+   .vid {
+     width: 100%;
+     height: 400px;
+   }
+   
+   #about-home-vid {
+       border: blue solid;
+       text-align:center;
+       margin: 0 auto;
+       padding: 55px;  
+   }
+   
+   #image-galley{
+       border: red solid;
+       padding: 10px;
+       margin-top: 20px;
+       width: 100%;
+   }
+       
+   #images {
+       border: blue solid;
+        text-align:center;
+        width: 100% !important;
+        margin: 0 auto;
+   }
+   
+   #image-galley{
+       border: red solid;
+       padding: 10px;
+       margin-top: 20px;
+       width: 100%;
+   }
+       
+   #images {
+       border: blue solid;
+        text-align:center;
+        width: 90%;
+        margin: 0 auto;
+        background-image: url(./images/backgroundimg/cake\ k\ uppper\ ckae.jpg);
+        background-size: 200%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+   }
+   
+   #image-galley{
+       border: red solid;
+       padding: 10px;
+       margin-top: 20px;
+       width: 100%;
+   }
+   
+   .ig {
+       color: #ebc334;
+       font-family:cursive;
+       font-weight:bolder;
+       font-size:xxx-large;
+       text-transform:capitalize;
+       line-height:3em;
+       font-size:-webkit-xxx-large;
+       text-decoration:underline; 
+   
+   }
+       
+   .lh {
+       margin-left: 30px;
+   }
+   
+   .im {
+       height: 400px;
+       border-radius: 50%;
+       width: 45%; 
+       text-align: center;
+   }
+      }
+    
+ 

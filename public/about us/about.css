@@ -1,0 +1,1710 @@
+@media only screen and (min-width: 1200px) {  
+
+  /* BODY PADD MAR ETC */
+html,body {
+   height: 100%;
+   width: 100%;
+   overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+  height: 100%;
+  margin: 0px;
+}
+
+a:visited {
+ background-color: #316dc3 !important;
+}
+
+a:active {
+ background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+ margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+ padding: 10px;
+ word-spacing:6px;
+ text-transform:capitalize;
+ color: white;
+ font-weight:bold;
+}
+
+.more {
+ color: #ebc334;
+}
+
+
+.firstbuttons {
+ border: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.uan {
+ color: #fff;
+ font-weight: bold;
+ font-size:xx-large;
+ font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+  border-radius: 55px;
+  width: 50%;
+  height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+  text-align: center;
+  font-family: cursive;
+  font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+ text-align: center;
+ background-color: #316dc3;
+ border-radius: 50px;
+ font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+  text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+  color: #ebc334 !important;
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+div.dm > button.viewmore {
+  color: #ebc334 !important;
+  text-decoration: none;
+  width: auto;
+  color: #ebc334;
+  font-weight:bolder;
+  text-transform: capitalize;
+}
+
+.nav-panel{
+ 
+  width: 100%;
+  background-color: #000;
+  padding-top: 10px;
+  box-shadow: grey 3px;
+  
+}
+
+.nav-panel > ul > li {
+  display: inline-block;
+  padding: 15px;
+}
+.nav-panel > ul > li > a {
+  color: #ebc334;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight:bold;
+  font-size: xx-large;
+
+}
+
+#mainwrapper {
+  width: 100%;
+  padding: 10px;
+  background-color: whitesmoke;
+}
+
+#whoweare {
+   width:100%;
+   padding: 10px;
+}
+
+.whoweareheading {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #fff;
+  font-size:larger;
+}
+
+.whoweareheading > h1 {
+  text-align: center;
+  text-transform:capitalize;
+  font-family:cursive;
+  color:#ebc334;
+  
+}
+.whoimg{
+  padding: 10px;
+  text-align: center;
+}
+
+.logocontainer {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto
+         
+}
+.whowelogo{
+  width: 20%;
+  height: 90px;
+  border-radius: 10%;
+}
+
+.intro > h7 {
+    font-size:large;
+    font-family: cursive;
+    line-height: 3rem;
+}
+
+#container{
+  margin: 0 auto;
+  padding: 10px;
+  
+
+}
+
+#aboutimages{
+  margin: 10px;
+  padding: 50px;
+}
+
+.acon {
+  width: 80%;
+  margin:0 auto;
+}
+
+.aimg {
+  padding: 5px; 
+}
+
+.aimg:hover {
+   box-shadow: gray 5px 5px;
+   padding: 7px;
+   margin: 5px;
+}
+
+
+
+#ourawards {
+  padding: 10px;
+  margin-top: 100px
+
+}
+
+.oah{
+  width: 50%;
+  margin:0 auto;
+  background-color:#fff;
+  margin-top: 12px
+}
+
+.oah > h1 {
+  text-align: center;
+  text-transform:capitalize;
+  color: #ebc334;
+  font-size: xxx-large;
+  font-family:cursive;
+}
+.oimgcon{
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.awrimg {
+  margin: 8px;
+}
+
+#aboutvid{
+  padding-top: 120px
+}
+.vid {
+  width: 100%;
+  height: 400px;
+}
+
+#ourclients {
+    padding: 10px;
+    margin: 70px
+}
+.container1 {
+  width:90%;
+}
+
+.och {
+  background-color: #fff;
+}
+
+.ocht {
+  width: 50%;
+  margin: 0 auto;
+  text-align:center;
+  font-size:xxx-large;
+  color:#ebc334;
+  font-family:cursive;
+  padding: 20px;
+}
+.mediaimg {
+  width: 90%;
+  margin-top: 40px;
+}
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px){
+    /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+   /* toggler-button-nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: xx-large;
+
+}
+
+#mainwrapper {
+ width: 100%;
+ padding: 10px;
+ background-color: whitesmoke;
+}
+
+#whoweare {
+  width:100%;
+  padding: 10px;
+}
+
+.whoweareheading {
+ width: 50%;
+ margin: 0 auto;
+ background-color: #fff;
+ font-size:larger;
+}
+
+.whoweareheading > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ font-family:cursive;
+ color:#ebc334;
+ 
+}
+.whoimg{
+ padding: 10px;
+ text-align: center;
+}
+
+.logocontainer {
+ width: 50%;
+ text-align: center;
+ margin: 0 auto
+        
+}
+.whowelogo{
+ width: 20%;
+ height: 90px;
+ border: black solid;
+ border-radius: 10%;
+}
+
+.intro > h7 {
+   font-size:large;
+   font-family: cursive;
+   line-height: 3rem;
+}
+
+#container{
+
+ margin: 0 auto;
+ padding: 10px;
+ 
+
+}
+
+#aboutimages{
+
+ margin: 10px;
+ padding: 50px;
+}
+
+.acon {
+
+ width: 80%;
+ margin:0 auto;
+}
+
+.aimg {
+ padding: 5px; 
+}
+
+.aimg:hover {
+  box-shadow: gray 5px 5px;
+  padding: 7px;
+  margin: 5px;
+}
+
+
+
+#ourawards {
+ padding: 10px;
+ margin-top: 100px
+
+}
+
+.oah{
+ width: 50%;
+ margin:0 auto;
+ background-color:#fff;
+ margin-top: 12px
+}
+
+.oah > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ color: #ebc334;
+ font-size: xxx-large;
+ font-family:cursive;
+}
+.oimgcon{
+ width: 60%;
+ margin: 0 auto;
+ margin-top: 50px;
+}
+
+.awrimg {
+ margin: 8px;
+}
+
+#aboutvid{
+ padding-top: 120px
+}
+.vid {
+ width: 100%;
+ height: 400px;
+}
+
+#ourclients {
+   padding: 10px;
+   margin: 70px
+}
+.container1 {
+ width:90%;
+}
+
+.och {
+ background-color: #fff;
+}
+
+.ocht {
+ width: 50%;
+ margin: 0 auto;
+ text-align:center;
+ font-size:xxx-large;
+ color:#ebc334;
+ font-family:cursive;
+ padding: 20px;
+}
+.mediaimg {
+ width: 90%;
+ margin-top: 40px;
+}
+
+}
+
+@media only screen and (max-width: 991px) and (min-width: 712px){
+      /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+   /* toggler-button-nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: xx-large;
+
+}
+
+#mainwrapper {
+ width: 100%;
+ padding: 10px;
+ background-color: whitesmoke;
+}
+
+#whoweare {
+  width:100%;
+  padding: 10px;
+}
+
+.whoweareheading {
+ width: 50%;
+ margin: 0 auto;
+ background-color: #fff;
+ font-size:larger;
+}
+
+.whoweareheading > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ font-family:cursive;
+ color:#ebc334;
+ 
+}
+.whoimg{
+ padding: 10px;
+ text-align: center;
+}
+
+.logocontainer {
+ width: 50%;
+ text-align: center;
+ margin: 0 auto;
+        
+}
+.whowelogo{
+ width: 20%;
+ height: 90px;
+ border-radius: 10%;
+}
+
+.intro > h7 {
+   font-size:large;
+   font-family: cursive;
+   line-height: 3rem;
+}
+
+#container{
+ margin: 0 auto;
+ padding: 10px;
+ 
+
+}
+
+#aboutimages{
+ margin: 10px;
+ padding: 50px;
+}
+
+.acon {
+ width: 80%;
+ margin:0 auto;
+ text-align:center;
+}
+
+.aimg {
+ padding: 5px; 
+}
+
+.aimg:hover {
+  box-shadow: gray 5px 5px;
+  padding: 7px;
+  margin: 5px;
+}
+
+
+
+#ourawards {
+ padding: 10px;
+ margin-top: 100px
+
+}
+
+.oah{
+ width: 50%;
+ margin:0 auto;
+ background-color:#fff;
+ margin-top: 12px
+}
+
+.oah > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ color: #ebc334;
+ font-size: xxx-large;
+ font-family:cursive;
+}
+.oimgcon{
+ width: 60%;
+ margin: 0 auto;
+ margin-top: 50px;
+ text-align:center;
+}
+
+.awrimg {
+ margin: 8px;
+}
+
+#aboutvid{
+ padding-top: 120px
+}
+.vid {
+ width: 100%;
+ height: 400px;
+}
+
+#ourclients {
+   padding: 10px;
+   margin: 70px
+}
+.container1 {
+ width:90%;
+}
+
+.och {
+ background-color: #fff;
+}
+
+.ocht {
+ width: 50%;
+ margin: 0 auto;
+ text-align:center;
+ font-size:xxx-large;
+ color:#ebc334;
+ font-family:cursive;
+ padding: 20px;
+}
+.mediaimg {
+ width: 100%;
+ margin-top: 40px;
+}
+}
+
+
+@media only screen and (max-width: 711px) and (min-width: 536px){
+
+        /* BODY PADD MAR ETC */
+html,body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* THIS WILL ONLY BODY */
+body {
+ height: 100%;
+ margin: 0px;
+}
+
+   /* toggler-button-nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+
+a:visited {
+background-color: #316dc3 !important;
+}
+
+a:active {
+background-color: #316dc3 !important;
+}
+
+.fat { transform: scale(2.5,2);
+margin: 10px;
+}
+
+/* nan- logo */
+.fan {
+padding: 10px;
+word-spacing:6px;
+text-transform:capitalize;
+color: white;
+font-weight:bold;
+}
+
+.more {
+color: #ebc334;
+}
+
+
+.firstbuttons {
+border: none;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+.uan {
+color: #fff;
+font-weight: bold;
+font-size:xx-large;
+font-family:serif;
+
+}
+
+/* MAIN NAVIGATION LOGO PIC*/
+.ha-nav-logo {
+
+ border-radius: 55px;
+ width: 50%;
+ height: 100px;
+}
+
+
+/* NAV FIRST DIV */
+.ha-nav-link-div {
+ text-align: center;
+ font-family: cursive;
+ font-size:larger;
+}
+
+
+/* NAV UL K ANDAR LI THEN A LINK HOVER */
+ul > li:hover {
+text-align: center;
+background-color: #316dc3;
+border-radius: 50px;
+font-family: cursive;
+}
+
+/* NAV */
+.ha-ul-nav {
+ text-align: center;
+}
+
+/* NAV IN CENTER  */
+.ha-ul-nav {
+ text-align: center;
+ margin: 0 auto;
+}
+
+/* STYLING LINK NAV TEXT */
+.ha-nav-a {
+ color: #ebc334 !important;
+ text-transform: capitalize;
+ margin-left: 30px;
+}
+div.dm > button.viewmore {
+ color: #ebc334 !important;
+ text-decoration: none;
+ width: auto;
+ color: #ebc334;
+ font-weight:bolder;
+ text-transform: capitalize;
+}
+
+.nav-panel{
+
+ width: 100%;
+ background-color: #000;
+ padding-top: 10px;
+ box-shadow: grey 3px;
+ 
+}
+
+.nav-panel > ul > li {
+ display: inline-block;
+ padding: 15px;
+}
+.nav-panel > ul > li > a {
+ color: #ebc334;
+ text-decoration: none;
+ text-transform: capitalize;
+ font-weight:bold;
+ font-size: xx-large;
+
+}
+
+#mainwrapper {
+ width: 100%;
+ padding: 10px;
+ background-color: whitesmoke;
+}
+
+#whoweare {
+  width:100%;
+  padding: 10px;
+}
+
+.whoweareheading {
+ width: 50%;
+ margin: 0 auto;
+ background-color: #fff;
+ font-size:larger;
+}
+
+.whoweareheading > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ font-family:cursive;
+ color:#ebc334;
+ 
+}
+.whoimg{
+ padding: 10px;
+ text-align: center;
+}
+
+.logocontainer {
+ width: 50%;
+ text-align: center;
+ margin: 0 auto
+        
+}
+.whowelogo{
+ width: 20%;
+ height: 90px;
+ border-radius: 10%;
+}
+
+.intro > h7 {
+   font-size:large;
+   font-family: cursive;
+   line-height: 3rem;
+}
+
+#container{
+ margin: 0 auto;
+ padding: 10px;
+}
+
+#aboutimages{
+ margin: 10px;
+ padding: 50px;
+}
+
+.acon {
+ width: 80%;
+ margin:0 auto;
+ text-align:center;
+}
+
+.aimg {
+ padding: 5px; 
+}
+
+.aimg:hover {
+  box-shadow: gray 5px 5px;
+  padding: 7px;
+  margin: 5px;
+}
+
+
+
+#ourawards {
+ padding: 10px;
+ margin-top: 100px
+
+}
+
+.oah{
+ width: 50%;
+ margin:0 auto;
+ background-color:#fff;
+ margin-top: 12px
+}
+
+.oah > h1 {
+ text-align: center;
+ text-transform:capitalize;
+ color: #ebc334;
+ font-size: xxx-large;
+ font-family:cursive;
+}
+.oimgcon{
+ width: 60%;
+ margin: 0 auto;
+ margin-top: 50px;
+ text-align: center;
+}
+
+.awrimg {
+ margin: 8px;
+}
+
+#aboutvid{
+ padding-top: 120px
+}
+.vid {
+ width: 100%;
+ height: 400px;
+}
+
+#ourclients {
+   padding: 10px;
+   margin: 70px
+}
+.container1 {
+ width:90%;
+}
+
+.och {
+ background-color: #fff;
+}
+
+.ocht {
+ width: 50%;
+ margin: 0 auto;
+ text-align:center;
+ font-size:xx-large;
+ color:#ebc334;
+ font-family:cursive;
+ padding: 20px;
+}
+.mediaimg {
+ width: 90%;
+ margin-top: 40px;
+}
+
+.container{
+ text-align:center;
+}
+}
+
+@media only screen and (max-width: 535px) and (min-width: 508px){
+
+        /* BODY PADD MAR ETC */
+        html,body {
+          height: 100%;
+          width: 100%;
+          overflow-x: hidden;
+        }
+        
+        /* THIS WILL ONLY BODY */
+        body {
+         height: 100%;
+         margin: 0px;
+        }
+
+           /* toggler-button-nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+        
+        a:visited {
+        background-color: #316dc3 !important;
+        }
+        
+        a:active {
+        background-color: #316dc3 !important;
+        }
+        
+        .fat { transform: scale(2.5,2);
+        margin: 10px;
+        }
+        
+        /* nan- logo */
+        .fan {
+        padding: 10px;
+        word-spacing:6px;
+        text-transform:capitalize;
+        color: white;
+        font-weight:bold;
+        }
+        
+        .more {
+        color: #ebc334;
+        }
+        
+        
+        .firstbuttons {
+        border: none;
+        }
+        
+        a:link {
+         text-decoration: none;
+        }
+        
+        .uan {
+        color: #fff;
+        font-weight: bold;
+        font-size:xx-large;
+        font-family:serif;
+        
+        }
+        
+        /* MAIN NAVIGATION LOGO PIC*/
+        .ha-nav-logo {
+        
+         border-radius: 55px;
+         width: 50%;
+         height: 100px;
+        }
+        
+        
+        /* NAV FIRST DIV */
+        .ha-nav-link-div {
+         text-align: center;
+         font-family: cursive;
+         font-size:larger;
+        }
+        
+        
+        /* NAV UL K ANDAR LI THEN A LINK HOVER */
+        ul > li:hover {
+        text-align: center;
+        background-color: #316dc3;
+        border-radius: 50px;
+        font-family: cursive;
+        }
+        
+        /* NAV */
+        .ha-ul-nav {
+         text-align: center;
+        }
+        
+        /* NAV IN CENTER  */
+        .ha-ul-nav {
+         text-align: center;
+         margin: 0 auto;
+        }
+        
+        /* STYLING LINK NAV TEXT */
+        .ha-nav-a {
+         color: #ebc334 !important;
+         text-transform: capitalize;
+         margin-left: 30px;
+        }
+        div.dm > button.viewmore {
+         color: #ebc334 !important;
+         text-decoration: none;
+         width: auto;
+         color: #ebc334;
+         font-weight:bolder;
+         text-transform: capitalize;
+        }
+        
+        .nav-panel{
+        
+         width: 100%;
+         background-color: #000;
+         padding-top: 10px;
+         box-shadow: grey 3px;
+         
+        }
+        
+        .nav-panel > ul > li {
+         display: inline-block;
+         padding: 15px;
+        }
+        .nav-panel > ul > li > a {
+         color: #ebc334;
+         text-decoration: none;
+         text-transform: capitalize;
+         font-weight:bold;
+         font-size: xx-large;
+        
+        }
+        
+        #mainwrapper {
+    
+         width: 100%;
+         padding: 10px;
+         background-color: whitesmoke;
+        }
+        
+        #whoweare {
+        
+          width:100%;
+          padding: 10px;
+        }
+        
+        .whoweareheading {
+    
+         width: 50%;
+         margin: 0 auto;
+         background-color: #fff;
+         font-size:larger;
+        }
+        
+        .whoweareheading > h1 {
+         text-align: center;
+         text-transform:capitalize;
+         font-family:cursive;
+         color:#ebc334;
+         
+        }
+        .whoimg{
+        
+         padding: 10px;
+         text-align: center;
+        }
+        
+        .logocontainer {
+         
+         width: 50%;
+         text-align: center;
+         margin: 0 auto
+                
+        }
+        .whowelogo{
+         width: 20%;
+         height: 90px;
+         border-radius: 10%;
+        }
+        
+        .intro > h7 {
+    
+           font-size:large;
+           font-family: cursive;
+           line-height: 3rem;
+        }
+        
+        #container{
+        
+         margin: 0 auto;
+         padding: 10px;
+        }
+        
+        #aboutimages{
+      
+         margin: 10px;
+         padding: 50px;
+        }
+        
+        .acon {
+      
+         width: 80%;
+         margin:0 auto;
+         text-align:center;
+        }
+        
+        .aimg {
+         padding: 5px; 
+        }
+        
+        .aimg:hover {
+          box-shadow: gray 5px 5px;
+          padding: 7px;
+          margin: 5px;
+        }
+        
+        
+        
+        #ourawards {
+    
+         padding: 10px;
+         margin-top: 100px
+        
+        }
+        
+        .oah{
+
+         margin:0 auto;
+         background-color:#fff;
+         margin-top: 12px
+        }
+        
+        .oah > h1 {
+         text-align: center;
+         text-transform:capitalize;
+         color: #ebc334;
+         font-size: xxx-large;
+         font-family:cursive;
+        }
+        .oimgcon{
+  
+
+         margin: 0 auto;
+         margin-top: 50px;
+         text-align: center;
+        }
+        
+        .awrimg {
+         margin: 8px;
+        }
+        
+        #aboutvid{
+
+         padding-top: 120px
+        }
+        .vid {
+         width: 100%;
+         height: 400px;
+        }
+        
+        #ourclients {
+           
+           padding: 10px;
+           margin: 70px
+        }
+        .container1 {
+         width:90%;
+        }
+        
+        .och {
+  
+         background-color: #fff;
+        }
+        
+        .ocht {
+         margin: 0 auto;
+         text-align:center;
+         font-size:xx-large;
+         color:#ebc334;
+         font-family:cursive;
+         padding: 20px;
+        }
+        .mediaimg {
+    
+         width: 100%;
+         margin-top: 40px;
+        }
+        
+        .container{
+
+         text-align:center;
+        }
+        }
+@media only screen and (max-width: 507px) {
+
+        /* BODY PADD MAR ETC */
+        html,body {
+          height: 100%;
+          width: 100%;
+          overflow-x: hidden;
+        }
+        
+        /* THIS WILL ONLY BODY */
+        body {
+         height: 100%;
+         margin: 0px;
+        }
+
+           /* toggler-button-nav */
+   .navbar-toggler {
+    margin-left: auto !important;
+ }
+        
+        a:visited {
+        background-color: #316dc3 !important;
+        }
+        
+        a:active {
+        background-color: #316dc3 !important;
+        }
+        
+        .fat { transform: scale(2.5,2);
+        margin: 10px;
+        }
+        
+        /* nan- logo */
+        .fan {
+        padding: 10px;
+        word-spacing:6px;
+        text-transform:capitalize;
+        color: white;
+        font-weight:bold;
+        }
+        
+        .more {
+        color: #ebc334;
+        }
+        
+        
+        .firstbuttons {
+        border: none;
+        }
+        
+        a:link {
+         text-decoration: none;
+        }
+        
+        .uan {
+        color: #fff;
+        font-weight: bold;
+        font-size:xx-large;
+        font-family:serif;
+        
+        }
+        
+        /* MAIN NAVIGATION LOGO PIC*/
+        .ha-nav-logo {
+        
+         border-radius: 55px;
+         width: 50%;
+         height: 100px;
+        }
+        
+        
+        /* NAV FIRST DIV */
+        .ha-nav-link-div {
+         text-align: center;
+         font-family: cursive;
+         font-size:larger;
+        }
+        
+        
+        /* NAV UL K ANDAR LI THEN A LINK HOVER */
+        ul > li:hover {
+        text-align: center;
+        background-color: #316dc3;
+        border-radius: 50px;
+        font-family: cursive;
+        }
+        
+        /* NAV */
+        .ha-ul-nav {
+         text-align: center;
+        }
+        
+        /* NAV IN CENTER  */
+        .ha-ul-nav {
+         text-align: center;
+         margin: 0 auto;
+        }
+        
+        /* STYLING LINK NAV TEXT */
+        .ha-nav-a {
+         color: #ebc334 !important;
+         text-transform: capitalize;
+         margin-left: 30px;
+        }
+        div.dm > button.viewmore {
+         color: #ebc334 !important;
+         text-decoration: none;
+         width: auto;
+         color: #ebc334;
+         font-weight:bolder;
+         text-transform: capitalize;
+        }
+        
+        .nav-panel{
+        
+         width: 100%;
+         background-color: #000;
+         padding-top: 10px;
+         box-shadow: grey 3px;
+         
+        }
+        
+        .nav-panel > ul > li {
+         display: inline-block;
+         padding: 15px;
+        }
+        .nav-panel > ul > li > a {
+         color: #ebc334;
+         text-decoration: none;
+         text-transform: capitalize;
+         font-weight:bold;
+         font-size: xx-large;
+        
+        }
+        
+        #mainwrapper {
+         width: 100%;
+         padding: 10px;
+         background-color: whitesmoke;
+        }
+        
+        #whoweare {
+         border:black solid;
+          width:100%;
+          padding: 10px;
+        }
+        
+        .whoweareheading {
+        
+         width: 50%;
+         margin: 0 auto;
+         background-color: #fff;
+         font-size:larger;
+        }
+        
+        .whoweareheading > h1 {
+         text-align: center;
+         text-transform:capitalize;
+         font-family:cursive;
+         color:#ebc334;
+         
+        }
+        .whoimg{
+      
+         padding: 10px;
+         text-align: center;
+        }
+        
+        .logocontainer {
+    
+         
+         text-align: center;
+         margin: 0 auto
+                
+        }
+        .whowelogo{
+         width: 20%;
+         height: 90px;
+        
+         border-radius: 10%;
+        }
+        
+        .intro > h7 {
+        
+           font-size:large;
+           font-family: cursive;
+           line-height: 3rem;
+        }
+        
+        #container{
+        
+         margin: 0 auto;
+         padding: 10px;
+        }
+        
+        #aboutimages{
+      
+         margin: 3px;
+         padding: 5px;
+        }
+        
+        .acon {
+            
+         margin:0 auto;
+         text-align:center;
+        }
+        
+        .aimg {
+         padding: 5px; 
+        }
+        
+        .aimg:hover {
+          box-shadow: gray 5px 5px;
+          padding: 7px;
+          margin: 5px;
+        }
+        
+        
+        
+        #ourawards {
+      
+         padding: 10px;
+         margin-top: 100px
+        
+        }
+        
+        .oah{
+      
+         width: 50%;
+         margin:0 auto;
+         background-color:#fff;
+         margin-top: 12px
+        }
+        
+        .oah > h1 {
+         text-align: center;
+         text-transform:capitalize;
+         color: #ebc334;
+         font-size: xxx-large;
+         font-family:cursive;
+        }
+        .oimgcon{
+        
+         margin: 0 auto;
+         margin-top: 50px;
+         text-align: center;
+        }
+        
+        .awrimg {
+         margin: 8px;
+        }
+        
+        #aboutvid{
+         
+         padding-top: 120px
+        }
+        .vid {
+         width: 100%;
+         height: 400px;
+        }
+        
+        #ourclients {
+        
+           padding: 10px;
+           margin: 70px;
+           width: 100%;
+           margin: 0 auto;
+        }
+        .container1 {
+         width:90%;
+        }
+        
+        .och {
+    
+         background-color: #fff;
+        }
+        
+        .ocht {
+
+         margin: 0 auto;
+         text-align:center;
+         font-size:x-large;
+         color:#ebc334;
+         font-family:cursive;
+         padding: 20px;
+        }
+        .mediaimg {
+         
+         width: 100%;
+         margin-top: 40px;
+        }
+        
+        .container{
+         text-align:center;
+        }
+        }
+
+
+
+
+
+
